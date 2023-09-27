@@ -1,0 +1,43 @@
+body {
+  background-color: antiquewhite;
+}
+.home {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  color: blueviolet;
+  background-color: rgba(34, 149, 149, 0.686);
+}
+h2 {
+  font-size: 4em;
+  color: rgba(34, 149, 149, 0.686);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+p {
+  color: rgba(34, 149, 149, 0.686);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+span {
+  color: blueviolet;
+  font-size: 2em;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+img {
+  height: 400px;
+}
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+footer {
+  text-align: center;
+  color: blueviolet;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  border: 15px;
+  border-color: rgba(34, 149, 149, 0.686);
+}
